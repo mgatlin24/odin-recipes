@@ -1,0 +1,15 @@
+.home {
+    font-size: 36px;
+    font-weight: 100;
+    font-family: 'Pacifico', sans-serif;
+}
+
+.title{
+    text-align: center;
+    background-color: rgba(87, 87, 223, 0.863);
+    color: rgba(1, 36, 1, 0.973);
+}
+
+.author {
+    font-size: 20px;
+}
