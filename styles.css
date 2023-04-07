@@ -1,5 +1,5 @@
-.home {
-    font-size: 36px;
+.base {
+    font-size: 48px;
     font-weight: 100;
     font-family: 'Pacifico', sans-serif;
 }
@@ -11,5 +11,22 @@
 }
 
 .author {
+    font-size: 20px;
+}
+
+.recipe {
+    font-size: 28px;
+}
+
+.return {
+    font-size: 20px;
+    background-color: rgba(87, 87, 223, 0.863);
+}
+
+.fine {
+    font-family: 'Pacifico', sans-serif;
+}
+
+.description {
     font-size: 20px;
 }
